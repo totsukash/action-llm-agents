@@ -2,8 +2,9 @@
 name = "action-llm-agents"
 version = "0.1.0"
 description = ""
-authors = [""]
+authors = ["Shota Totsuka <shota.totsuka@blueish.co.jp>"]
 readme = "README.md"
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
