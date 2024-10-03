@@ -5,11 +5,14 @@
 ## Installation
 
 ```bash
-$ poetry install
-$ python src/main.py
+$ npm install
 ```
 
 ## Usage
+
+```bash
+$ npm start
+```
 
 ## License
 
